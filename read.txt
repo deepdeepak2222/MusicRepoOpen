@@ -1,0 +1,1 @@
+This project is about to do a POC in music department through python. The purpose if to generate some music raags from some kind of python programming.
